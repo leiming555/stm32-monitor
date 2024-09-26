@@ -1,0 +1,9 @@
+..\obj\osl.o: ..\SDK\osl.c
+..\obj\osl.o: ..\SDK\osl.h
+..\obj\osl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\osl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\osl.o: ..\SDK\data_types.h
+..\obj\osl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\osl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\osl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\osl.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h

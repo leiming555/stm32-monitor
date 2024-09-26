@@ -1,0 +1,10 @@
+..\obj\protocol.o: ..\SDK\protocol.c
+..\obj\protocol.o: ..\SDK\err.h
+..\obj\protocol.o: ..\SDK\osl.h
+..\obj\protocol.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\protocol.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\protocol.o: ..\SDK\data_types.h
+..\obj\protocol.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\protocol.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\protocol.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\protocol.o: ..\SDK\protocol.h

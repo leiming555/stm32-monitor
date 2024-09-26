@@ -1,0 +1,9 @@
+..\obj\user.o: ..\SDK\user.c
+..\obj\user.o: ..\SDK\product_def.h
+..\obj\user.o: ..\SDK\data_types.h
+..\obj\user.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\user.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\user.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\user.o: ..\SDK\func_ops.h
+..\obj\user.o: ..\SDK\device.h
+..\obj\user.o: ..\SDK\err.h

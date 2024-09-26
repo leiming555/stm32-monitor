@@ -1,0 +1,13 @@
+..\obj\device.o: ..\SDK\device.c
+..\obj\device.o: ..\SDK\product_def.h
+..\obj\device.o: ..\SDK\func_ops.h
+..\obj\device.o: ..\SDK\data_types.h
+..\obj\device.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\device.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\device.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\device.o: ..\SDK\protocol.h
+..\obj\device.o: ..\SDK\device.h
+..\obj\device.o: ..\SDK\err.h
+..\obj\device.o: ..\SDK\osl.h
+..\obj\device.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\device.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
